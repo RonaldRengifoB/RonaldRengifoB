@@ -7,7 +7,6 @@ My experience has led me to develop my skills in network design, deployment, adm
 
 In the last couple of years, I discovered and started learning about the DevOps methodology and it grew my interest in Cloud Solutions like Amazon Web Services (AWS) as the future for delivering IT resources to companies and Network Security to keep that future promising.
 
-A collaborative and motivating culture can make a powerful impact on our goals. I'm always willing to learn new technologies and methodologies to make an important impact in my workplace and career.
 
 ## Technologies:
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
