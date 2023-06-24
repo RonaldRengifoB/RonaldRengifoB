@@ -1,4 +1,4 @@
-# Hey there, my name is Ronald Rengifo 👋
+# Hey there, my name is Ronald! 👋
 ### I'm a Network Security & Cloud Engineer
 
 I'm an IT professional with over ten years of experience working with infrastructure, both on-premise and cloud, always looking for ways to solve everyday problems and learn from them, from the basic but not-so-obvious to the most challenging ones.
