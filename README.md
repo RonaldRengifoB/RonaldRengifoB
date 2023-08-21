@@ -1,11 +1,10 @@
 # Hey there, my name is Ronald! 👋
-### I'm a Network Security & Cloud Engineer
+### I'm an IT pro with over ten years of experience in infrastructure, on-premise, and in the cloud.
 
-I'm an IT professional with over ten years of experience working with infrastructure, both on-premise and cloud, always looking for ways to solve everyday problems and learn from them, from the basic but not-so-obvious to the most challenging ones.
+Throughout my career, I've developed a skillset covering the design, deployment, and administration of Linux servers and networks. This includes virtualization, containerization, and monitoring. I have a strong interest in following the path of Cloud Operations, with solutions like Amazon Web Services (AWS), and how IT resources are delivered following security standards and best practices.
 
-My experience has led me to develop my skills in network design, deployment, administration, and Linux management including virtualization, containerization, and monitoring.
+I'm always excited to explore new technologies and methodologies, driven by my strong commitment to make a real impact in my workplace and leap my career forward. I'm on a journey to thrive in Cloud Operations and Network Security.
 
-In the last couple of years, I discovered and started learning about the DevOps methodology and it grew my interest in Cloud Solutions like Amazon Web Services (AWS) as the future for delivering IT resources to companies and Network Security to keep that future promising.
 
 
 ## Technologies:
