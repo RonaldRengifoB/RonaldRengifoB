@@ -1,12 +1,6 @@
 # Hey there, my name is Ronald! 👋
 ### I'm an IT pro with over ten years of experience in infrastructure, on-premise, and in the cloud.
 
-Throughout my career, I've developed a skillset covering the design, deployment, and administration of Linux servers and networks. This includes virtualization, containerization, and monitoring. I have a strong interest in following the path of Cloud Operations, with solutions like Amazon Web Services (AWS), and how IT resources are delivered following security standards and best practices.
-
-I'm always excited to explore new technologies and methodologies, driven by my strong commitment to make a real impact in my workplace and leap my career forward. I'm on a journey to thrive in Cloud Operations and Network Security.
-
-
-
 ## Technologies:
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
@@ -32,4 +26,3 @@ I'm always excited to explore new technologies and methodologies, driven by my s
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
-And some others...
