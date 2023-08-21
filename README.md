@@ -1,5 +1,5 @@
 # Hey there, my name is Ronald! 👋
-### I'm an IT pro with over ten years of experience in infrastructure, on-premise, and in the cloud.
+### 🖥️ Over 10 years, navigating the world of Linux Servers & Networks | ☁️ Embarking on Cloud Expeditions & Diving into Penetration Testing | 🚀 Seeking opportunities for Growth & Contribution! | 🌟 AWS Certified Architect - Associate
 
 ## Technologies:
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
